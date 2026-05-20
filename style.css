@@ -56,7 +56,14 @@ nav ul li a:hover{
 /* Hero */
 .hero{
     text-align: center;
-    padding: 100px 20px;
+    padding: 120px 20px;
+
+    background-image: url('gambar.jpg');
+    background-size: cover;
+    background-position: center;
+
+    color: white;
+}
 }
 
 .hero h2{
